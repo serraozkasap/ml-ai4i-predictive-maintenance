@@ -1,7 +1,7 @@
 # Predicting machine failures by using AI4I 2020 dataset on Kaggle
 
 Class: Machine Learning and Data Mining 
-Machine Learning project, University of Bologna — Serra Özkasap
+/ Machine Learning project, University of Bologna — Serra Özkasap
 
 The notebook predicts whether a milling machine is going to fail, using its sensor readings (temperatures, rotational speed, torque, tool wear). It follows CRISP-DM: business understanding, data understanding, data preparation, modeling, evaluation and conclusions.
 
